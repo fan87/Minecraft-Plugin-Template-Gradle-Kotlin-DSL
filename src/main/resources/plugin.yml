@@ -1,0 +1,4 @@
+name: GradlePluginTemplate
+main: me.fan87.gradleplugintemplate.GradlePluginTemplate
+version: '${version}'
+api-version: 1.13
